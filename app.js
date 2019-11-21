@@ -165,8 +165,7 @@ const initServer = (request, response) => {
         [
           {
             error: true,
-            msg:
-              "Require image [file='https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png'] and quality [ quality=1-100 ]"
+            msg: "Require image [file='https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png'] and quality [ quality=1-100 ]"
           }
         ],
         null,
