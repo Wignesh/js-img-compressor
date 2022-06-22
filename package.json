@@ -9,7 +9,7 @@
   "author": "VIGNESH J",
   "license": "ISC",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "imagemin": "^7.0.0",
     "imagemin-gifsicle": "^6.0.1",
     "imagemin-jpegtran": "^6.0.0",
